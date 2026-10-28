@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudentDirectory — Week 5 (Complete)
 
 Mobile App Dev with React Native & Expo · AIUB · Fall 26-27
@@ -45,3 +46,6 @@ Press `w` in the terminal to run in a browser instead.
   students (persistent storage comes in Week 7).
 - Week 3's NewsReader `(home)` stack is not included. The Week 4 and 5 manuals
   use `app/(tabs)/index.tsx` as Home, so that layout is used here.
+=======
+# Mobile-app-development
+>>>>>>> 9869581eb06f596db7a451cc065e5121575fb325
